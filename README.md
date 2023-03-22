@@ -1,3 +1,3 @@
 www.leetcode.com
 
-Solutions to task from www.leetcode.com
+Solutions to tasks from www.leetcode.com
